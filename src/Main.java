@@ -3,7 +3,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Name of group Internet_Explorer | GitHub Leader ID: Kristrox | GitHubID: Kristrox");
         // addition
-        System.out.println((new ArithmeticsAdd()).Addition(2, 4));
+        System.out.println((new ArithmeticsAdd()).Addition(2, 4));//comment for first branch
         //multiplication example
         ArithmeticsMult multiplication = new ArithmeticsMult();
         System.out.println("result of multiplication = " + multiplication.Multiplication(20, 10));
