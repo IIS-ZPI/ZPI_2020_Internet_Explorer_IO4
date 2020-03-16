@@ -5,6 +5,7 @@ public class Main {
         //multiplication example
         ArithmeticsMult multiplication = new ArithmeticsMult();
         System.out.println("result of multiplication = " + multiplication.Multiplication(20, 10));
+	System.out.println(new BasicArithmeticsDivImpl().Division(3,4));
     }
 }
 
