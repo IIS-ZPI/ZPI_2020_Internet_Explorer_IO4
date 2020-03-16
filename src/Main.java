@@ -4,7 +4,7 @@ public class Main {
         System.out.println("Name of group Internet_Explorer | GitHub Leader ID: Kristrox | GitHubID: Kristrox");
         // addition
         System.out.println((new ArithmeticsAdd()).Addition(2, 4));
-        //multiplication example
+        //multiplication example implemented by BigDingDongMan
         ArithmeticsMult multiplication = new ArithmeticsMult();
         System.out.println("result of multiplication = " + multiplication.Multiplication(20, 10));
         //difference example
