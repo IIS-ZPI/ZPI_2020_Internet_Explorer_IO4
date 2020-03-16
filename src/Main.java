@@ -6,7 +6,7 @@ public class Main {
         System.out.println((new ArithmeticsAdd()).Addition(2, 4));
         //multiplication example
         ArithmeticsMult multiplication = new ArithmeticsMult();
-        System.out.println("result of multiplication = " + multiplication.Multiplication(20, 10));
+        System.out.println("result of multiplication = " + multiplication.Multiplication(20, 10));//comment for second branch
         //difference example
         ArithmeticsDiff difference = new ArithmeticsDiff();
         System.out.println("result of difference 10 - 5 = " + difference.Difference(10, 5));
