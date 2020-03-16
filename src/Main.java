@@ -7,7 +7,7 @@ public class Main {
         //multiplication example
         ArithmeticsMult multiplication = new ArithmeticsMult();
         System.out.println("result of multiplication = " + multiplication.Multiplication(20, 10));
-        //difference example
+        //difference example implemented by Rysiuziom
         ArithmeticsDiff difference = new ArithmeticsDiff();
         System.out.println("result of difference 10 - 5 = " + difference.Difference(10, 5));
         // division
