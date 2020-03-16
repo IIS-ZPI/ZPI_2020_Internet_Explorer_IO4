@@ -12,8 +12,6 @@ public class Main {
         System.out.println("result of difference 10 - 5 = " + difference.Difference(10, 5));
         // division
 	    System.out.println(new BasicArithmeticsDivImpl().Division(3,4));
-
-	    //local comment
     }
 }
 
