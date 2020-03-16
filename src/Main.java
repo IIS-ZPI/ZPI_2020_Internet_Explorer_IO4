@@ -13,5 +13,7 @@ public class Main {
         // division
 	    System.out.println(new BasicArithmeticsDivImpl().Division(3,4));
     }
+
+    // Hergoln: Beznadziejny komentarz 1
 }
 
