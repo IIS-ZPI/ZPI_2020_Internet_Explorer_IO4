@@ -10,7 +10,7 @@ public class Main {
         //difference example
         ArithmeticsDiff difference = new ArithmeticsDiff();
         System.out.println("result of difference 10 - 5 = " + difference.Difference(10, 5));
-        // division
+        // division implemented by uposledzony
 	    System.out.println(new BasicArithmeticsDivImpl().Division(3,4));
     }
 }
